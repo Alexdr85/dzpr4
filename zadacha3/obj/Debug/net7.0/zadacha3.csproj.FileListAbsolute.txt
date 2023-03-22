@@ -1,0 +1,5 @@
+/home/user/Рабочий стол/prakticum4/dz4/dz4/dzpr4/dzpr4/zadacha3/obj/Debug/net7.0/zadacha3.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/prakticum4/dz4/dz4/dzpr4/dzpr4/zadacha3/obj/Debug/net7.0/zadacha3.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/prakticum4/dz4/dz4/dzpr4/dzpr4/zadacha3/obj/Debug/net7.0/zadacha3.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/prakticum4/dz4/dz4/dzpr4/dzpr4/zadacha3/obj/Debug/net7.0/zadacha3.AssemblyInfo.cs
+/home/user/Рабочий стол/prakticum4/dz4/dz4/dzpr4/dzpr4/zadacha3/obj/Debug/net7.0/zadacha3.csproj.CoreCompileInputs.cache
